@@ -6,4 +6,4 @@ FBC パーフェクトRuby on Rails 輪読会 2023
 ### 環境
 - Ruby 2.7.8
 - Rails 6.0.6.1
-- node v18.4.0
+- node v18.7.1
